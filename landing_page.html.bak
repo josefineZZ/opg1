@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+
+ <link rel="stylesheet" type="text/css" href="layout.css" />
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="Josefine">
+  <meta name="Keywords" content="Schoolwork">
+  <meta charset="UTF-8">
+  <title>Landingpage</title>
+  <style>
+  </style>
+ </head>
+ <body>
+
+<div class="header">
+</div>
+
+<div class="topnav">
+  <a href="landing_page.html">Forside</a>
+  <a href="faa_hjaelp.html">Få hjælp</a>
+  <a href="https://www.uvm.dk/ministeriet/kontakt">Kontakt Uvm.dk</a>
+</div>
+
+<div class="row">
+  <div class="column_text">
+  <h1><span style="font-family:Times New Roman,Times,serif">Hvem mobber online?</span></h1>
+
+<p><span style="font-family:Times New Roman,Times,serif">De b&oslash;rn, der mobber i den virkelige verden, er ofte ogs&aring; dem, der mobber online. Dog bliver b&oslash;rn ofte mere modige, n&aring;r de sidder bag en sk&aelig;rm. Derfor kan det ogs&aring; v&aelig;re b&oslash;rn, der normalt ikke ville turde mobbe, som g&aring;r til tasterne i stedet.</span></p>
+
+<p><span style="font-family:Times New Roman,Times,serif">Mobbere og mobbeofre er tit t&aelig;ttere besl&aelig;gtet, end man m&aring;ske ville antage. B&oslash;rn, der p&aring;tager sig rollen som mobbere, har ofte samme udfordringer som mobbeofrene. Det handler om lavt selvv&aelig;rd og d&aring;rlig selvtillid &ndash; som kan relateres b&aring;de til faglig- og sociale egenskaber. N&aring;r b&oslash;rn oplever udfordringer, der s&aelig;tter deres selvv&aelig;rd over styr, p&aring;tager de sig ofte en rolle og bliver derfor enten mobbere eller mobbeofre.</span></p>
+
+<p>www.julemaerket.dk</p>
+
+  </div>
+  
+  <div class="column_img">
+   <img src="20220515_grafitti_likes.jpg" alt="we need more likes">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column_img">
+   <img src="20220515_telefoner_teenager.jpg" alt="Girl in a jacket">
+  </div>
+
+  <div class="column_text">
+    <h2>Column</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor sed accumsan convallis.</p>
+  </div>  
+</div>
+
+<div class="divisionbar"></div>
+
+
+<div class="row">
+  <div class="column_3c">
+   <h1><span style="font-family:Times New Roman, Times, serif">Rul med de gode vibrationer!</span></h1>
+
+<h2>
+<span style="font-family:Times New Roman,Times,serif">Der kan ske meget online, man har s&aring; tralvt med at rulle gennem opslagene p&aring; sin telefon, at man glemmer at rulle med sit skateboard!</span></h2>
+
+<p><span style="font-family:Times New Roman, Times, serif">Vi synes at der er i vores moderne verden er for meget fokus p&aring; virtuel life istedet for real life, vi f&oslash;ler at unge bukker under for det pres der er p&aring; dem for at passe ind, vi synes der skal v&aelig;re mere plads til vores forskelligheder, og vi ved lige hvordan.&nbsp;</span></p>
+
+<p><span style="font-family:Times New Roman, Times, serif">Kom og dekorer dit skateboard med fede budskaber om anti-mobning, og gode vibes, vi gl&aelig;der os til at se dig!</span></p>
+
+<p>
+&nbsp;</p>
+  </div>  
+
+  <div class="column_3c">
+<h1><span style="font-family:Times New Roman, Times, serif">Tal p&aelig;nt n&aring;r du er p&aring; v&aelig;ggen</span></h1>
+
+<h2>
+<span style="font-family:Times New Roman, Times, serif">Hvordan skal man opf&oslash;re sig online, hvordan taler man til &aelig;ndre og hvilke konsekvenser kan det have ikke at opf&oslash;re sig p&aelig;nt?</span></h2>
+
+<p><span style="font-family:Times New Roman, Times, serif">Mange unge oplever at f&oslash;le sig presset af idealerne som florer p&aring; nettet, og de f&oslash;ler deres selvtillid f&aring;r nogen slag, mange unge lader deres egen usikkerheder g&aring; udover andre, men vi vil &aelig;ndrer dette. Kom til &aring;ben grafitti-dag, og hj&aelig;lp os med at sprede det gode budskab, samtidig med at f&aring; nye venner!</span></p>
+
+<p>
+&nbsp;</p>
+
+  </div>  
+
+  <div class="column_3c">
+ <h1><span style="font-family:Times New Roman,Times,serif">Vi st&oslash;tter hinanden</span></h1>
+
+<h2>
+<span style="font-family:Times New Roman, Times, serif">Kom til &aring;ben gruppe med andre som dig selv.</span></h2>
+
+<p>Vi ved at mange unge, is&aelig;r piger og unge kvinder, har problemer med deres selvv&aelig;rd. Unge f&oslash;ler at der ikke er nogen at snakke med, de f&oslash;ler sig alene og de f&oslash;ler at de er n&oslash;dt til at lange ud efter andre, Vores motivation bag denne gruppe er at f&aring; de unge v&aelig;k fra sk&aelig;rmen, og ud og snakke med andre unge og opdage at der er andre som dem, s&aring; kom og m&oslash;d nogen sk&oslash;nne mennesker og f&aring; en god snak.</p>
+
+<p>
+&nbsp;</p>
+  </div>  
+</div>
+
+
+<div class="row">
+  <div class="column_3c">
+   <img src="20220515_skater_drenge.jpg" alt="Girl in a jacket">
+  </div>
+
+  <div class="column_3c">
+   <img src="20220515_grafitti_be_kind.jpg" alt="Girl in a jacket">
+  </div>
+
+  <div class="column_3c">
+   <img src="20220515_gruppe_med_mobiler.jpg" alt="Girl in a jacket">
+  </div>
+</div>
+
+
+<div class="footer_1a"></div>
+
+ </body>
+</html>
